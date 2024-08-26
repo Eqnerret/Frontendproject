@@ -7,7 +7,9 @@
     background: #fff;
     box-sizing: border-box; /* Ensure padding is included in width/height */
     display: flex;
+    border: none;
     flex-direction: column;
+
 }
 
 /* Header Styles
